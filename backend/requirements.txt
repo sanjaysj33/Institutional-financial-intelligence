@@ -4,4 +4,4 @@ SQLAlchemy>=2.0,<3.0
 PyMySQL>=1.1,<2.0
 python-dotenv>=1.0,<2.0
 firebase-admin>=6.0,<7.0
-email-validator
+pydantic[email]>=2.0
